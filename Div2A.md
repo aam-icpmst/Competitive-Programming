@@ -3,7 +3,7 @@
 | 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 800 | [√](https://codeforces.com/contest/1220/submission/88893488) |
 | 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 800 | [√](https://codeforces.com/contest/867/submission/89197870) |
 | 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 800 | [√](https://codeforces.com/contest/959/submission/89392197) |
-| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 |  |
+| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 800 | [√](https://codeforces.com/contest/935/submission/89398158) |
 | 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 |  |
 | 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 700 |  |
 | 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 700 |  |
