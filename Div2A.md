@@ -10,8 +10,8 @@
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 800 | [✓](https://codeforces.com/contest/1244/submission/89516198) |
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 800 | [✓](https://codeforces.com/contest/987/submission/89530158) |
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 800 | [✓](https://codeforces.com/contest/1080/submission/89530224) |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 800 | [✓](https://codeforces.com/contest/1017/submission/89722888) |
+| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 800 | [✓](https://codeforces.com/contest/1136/submission/89724405) |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
