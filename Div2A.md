@@ -12,7 +12,7 @@
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 800 | [✓](https://codeforces.com/contest/1080/submission/89530224) |
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 800 | [✓](https://codeforces.com/contest/1017/submission/89722888) |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 800 | [✓](https://codeforces.com/contest/1136/submission/89724405) |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
+| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 800 | [✓](https://codeforces.com/contest/994/submission/89728688) |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
