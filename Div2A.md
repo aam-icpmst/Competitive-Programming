@@ -16,7 +16,7 @@
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 800 | [✓](https://codeforces.com/contest/984/submission/98487663) |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | [✓](https://codeforces.com/contest/1088/submission/98566694) |
-| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
+| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | [✓](https://codeforces.com/contest/937/submission/98577353) |
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
