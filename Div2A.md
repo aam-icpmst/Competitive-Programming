@@ -20,7 +20,7 @@
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | [✓](https://codeforces.com/contest/1180/submission/98683676) |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | [✓](https://codeforces.com/contest/1243/submission/98752964) |
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | [✓](https://codeforces.com/contest/898/submission/98721392) |
-| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
+| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | [✓](https://codeforces.com/contest/1287/submission/98978955) |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | [✓](https://codeforces.com/contest/1159/submission/98940887) |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
