@@ -22,7 +22,7 @@
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | [✓](https://codeforces.com/contest/898/submission/98721392) |
 | 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | [✓](https://codeforces.com/contest/1287/submission/98978955) |
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | [✓](https://codeforces.com/contest/1159/submission/98940887) |
-| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
+| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | [✓](https://codeforces.com/contest/1152/submission/99314735) |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
