@@ -26,7 +26,7 @@
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | [✓](https://codeforces.com/contest/918/submission/99980692) |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | [✓](https://codeforces.com/contest/1028/submission/99738127) |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | [✓](https://codeforces.com/contest/894/submission/99794565) |
-| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
+| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | [✓](https://codeforces.com/contest/1047/submission/99988692) |
 | 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
 | 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
 | 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
