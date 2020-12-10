@@ -31,7 +31,7 @@
 | 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | [✓](https://codeforces.com/contest/1269/submission/100292121) |
 | 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
 | 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | [✓](https://codeforces.com/contest/1038/submission/100829380) |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
+| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | [✓](https://codeforces.com/contest/1255/submission/100837281) |
 | 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
 | 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
