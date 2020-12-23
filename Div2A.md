@@ -35,7 +35,7 @@
 | 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | [✓](https://codeforces.com/contest/931/submission/101453059) |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
 | 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | [✓](https://codeforces.com/contest/851/submission/101444352) |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
+| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | [✓](https://codeforces.com/contest/1236/submission/102140845) |
 | 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | [✓](https://codeforces.com/contest/1061/submission/102117234) |
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
