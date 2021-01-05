@@ -1,48 +1,48 @@
 | Index | Problem | Difficulty | Solved? |
 | --- | --- | --- | --- |
-| 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 800 | [✓](https://codeforces.com/contest/1220/submission/88893488) |
-| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 800 | [✓](https://codeforces.com/contest/867/submission/89197870) |
-| 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 800 | [✓](https://codeforces.com/contest/959/submission/89392197) |
-| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 800 | [✓](https://codeforces.com/contest/935/submission/89398158) |
-| 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 800 | [✓](https://codeforces.com/contest/1186/submission/89402484) |
-| 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 800 | [✓](https://codeforces.com/contest/897/submission/89454235) |
-| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 800 | [✓](https://codeforces.com/contest/1191/submission/89466095) |
-| 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 800 | [✓](https://codeforces.com/contest/1244/submission/89516198) |
-| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 800 | [✓](https://codeforces.com/contest/987/submission/89530158) |
-| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 800 | [✓](https://codeforces.com/contest/1080/submission/89530224) |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 800 | [✓](https://codeforces.com/contest/1017/submission/89722888) |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 800 | [✓](https://codeforces.com/contest/1136/submission/89724405) |
-| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 800 | [✓](https://codeforces.com/contest/994/submission/89728688) |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 800 | [✓](https://codeforces.com/contest/984/submission/98487663) |
-| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | [✓](https://codeforces.com/contest/1206/submission/98579294) |
-| 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | [✓](https://codeforces.com/contest/1088/submission/98566694) |
-| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | [✓](https://codeforces.com/contest/937/submission/98577353) |
-| 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | [✓](https://codeforces.com/contest/1180/submission/98683676) |
-| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | [✓](https://codeforces.com/contest/1243/submission/98752964) |
-| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | [✓](https://codeforces.com/contest/898/submission/98721392) |
-| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | [✓](https://codeforces.com/contest/1287/submission/98978955) |
-| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | [✓](https://codeforces.com/contest/1159/submission/98940887) |
-| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | [✓](https://codeforces.com/contest/1152/submission/99314735) |
-| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | [✓](https://codeforces.com/contest/918/submission/99980692) |
-| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | [✓](https://codeforces.com/contest/1028/submission/99738127) |
-| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | [✓](https://codeforces.com/contest/894/submission/99794565) |
-| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | [✓](https://codeforces.com/contest/1047/submission/99988692) |
-| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 | [✓](https://codeforces.com/contest/832/submission/100294911) |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | [✓](https://codeforces.com/contest/1269/submission/100292121) |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | [✓](https://codeforces.com/contest/1189/submission/101093190) |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | [✓](https://codeforces.com/contest/1038/submission/100829380) |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | [✓](https://codeforces.com/contest/1255/submission/100837281) |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | [✓](https://codeforces.com/contest/931/submission/101453059) |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | [✓](https://codeforces.com/contest/939/submission/102338236) |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | [✓](https://codeforces.com/contest/851/submission/101444352) |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | [✓](https://codeforces.com/contest/1236/submission/102140845) |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | [✓](https://codeforces.com/contest/746/submission/102296127) |
-| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | [✓](https://codeforces.com/contest/1061/submission/102117234) |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 800 | [✓](https://codeforces.com/contest/950/submission/102409962) |
-| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [✓](https://codeforces.com/contest/1113/submission/102544401) |
+| 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 800 | [Yes](https://codeforces.com/contest/1220/submission/88893488) |
+| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 800 | [Yes](https://codeforces.com/contest/867/submission/89197870) |
+| 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 800 | [Yes](https://codeforces.com/contest/959/submission/89392197) |
+| 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 800 | [Yes](https://codeforces.com/contest/935/submission/89398158) |
+| 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 800 | [Yes](https://codeforces.com/contest/1186/submission/89402484) |
+| 6 | [Scarborough Fair](https://codeforces.com/problemset/problem/897/A) | 800 | [Yes](https://codeforces.com/contest/897/submission/89454235) |
+| 7 | [Tokitsukaze and Enhancement](https://codeforces.com/problemset/problem/1191/A) | 800 | [Yes](https://codeforces.com/contest/1191/submission/89466095) |
+| 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 800 | [Yes](https://codeforces.com/contest/1244/submission/89516198) |
+| 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 800 | [Yes](https://codeforces.com/contest/987/submission/89530158) |
+| 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 800 | [Yes](https://codeforces.com/contest/1080/submission/89530224) |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 800 | [Yes](https://codeforces.com/contest/1017/submission/89722888) |
+| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 800 | [Yes](https://codeforces.com/contest/1136/submission/89724405) |
+| 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 800 | [Yes](https://codeforces.com/contest/994/submission/89728688) |
+| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 800 | [Yes](https://codeforces.com/contest/984/submission/98487663) |
+| 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 | [Yes](https://codeforces.com/contest/1206/submission/98579294) |
+| 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 | [Yes](https://codeforces.com/contest/1088/submission/98566694) |
+| 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 | [Yes](https://codeforces.com/contest/937/submission/98577353) |
+| 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 | [Yes](https://codeforces.com/contest/1180/submission/98683676) |
+| 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 | [Yes](https://codeforces.com/contest/1243/submission/98752964) |
+| 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 | [Yes](https://codeforces.com/contest/898/submission/98721392) |
+| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | [Yes](https://codeforces.com/contest/1287/submission/98978955) |
+| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | [Yes](https://codeforces.com/contest/1159/submission/98940887) |
+| 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 | [Yes](https://codeforces.com/contest/1152/submission/99314735) |
+| 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 | [Yes](https://codeforces.com/contest/918/submission/99980692) |
+| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | [Yes](https://codeforces.com/contest/1028/submission/99738127) |
+| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 | [Yes](https://codeforces.com/contest/894/submission/99794565) |
+| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 | [Yes](https://codeforces.com/contest/1047/submission/99988692) |
+| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 | [Yes](https://codeforces.com/contest/832/submission/100294911) |
+| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | [Yes](https://codeforces.com/contest/1269/submission/100292121) |
+| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 | [Yes](https://codeforces.com/contest/1189/submission/101093190) |
+| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | [Yes](https://codeforces.com/contest/1038/submission/100829380) |
+| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | [Yes](https://codeforces.com/contest/1255/submission/100837281) |
+| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | [Yes](https://codeforces.com/contest/931/submission/101453059) |
+| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | [Yes](https://codeforces.com/contest/939/submission/102338236) |
+| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | [Yes](https://codeforces.com/contest/851/submission/101444352) |
+| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | [Yes](https://codeforces.com/contest/1236/submission/102140845) |
+| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | [Yes](https://codeforces.com/contest/746/submission/102296127) |
+| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | [Yes](https://codeforces.com/contest/1061/submission/102117234) |
+| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 800 | [Yes](https://codeforces.com/contest/950/submission/102409962) |
+| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 800 | [Yes](https://codeforces.com/contest/1130/submission/103452502) |
+| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [Yes](https://codeforces.com/contest/1113/submission/102544401) |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
-| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | [✓](https://codeforces.com/contest/1004/submission/103382636) |
+| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | [Yes](https://codeforces.com/contest/1004/submission/103382636) |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
