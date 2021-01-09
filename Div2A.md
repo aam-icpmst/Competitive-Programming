@@ -40,8 +40,8 @@
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 | [Yes](https://codeforces.com/contest/1061/submission/102117234) |
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 800 | [Yes](https://codeforces.com/contest/950/submission/102409962) |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 800 | [Yes](https://codeforces.com/contest/1130/submission/103452502) |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [Yes](https://codeforces.com/contest/1113/submission/102544401) |
-| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
+| 41 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 800 | [Yes](https://codeforces.com/contest/1185/submission/103904909) |
+| 42 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [Yes](https://codeforces.com/contest/1113/submission/102544401) |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | [Yes](https://codeforces.com/contest/1004/submission/103382636) |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
