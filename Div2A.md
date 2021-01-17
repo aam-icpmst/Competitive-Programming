@@ -50,7 +50,7 @@
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
 | 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
-| 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 |  |
+| 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
 | 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
