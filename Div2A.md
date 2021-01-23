@@ -47,13 +47,13 @@
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | [Yes](https://codeforces.com/contest/1209/submission/104055377) |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | [Yes](https://codeforces.com/contest/1208/submission/104036162) |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | [Yes](https://codeforces.com/contest/1099/submission/104338160) |
-| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
-| 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
-| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
-| 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
-| 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
-| 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
-| 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
+| 48 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
+| 49 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
+| 50 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
+| 51 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
+| 52 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
+| 53 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
+| 54 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
