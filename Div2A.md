@@ -48,7 +48,7 @@
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | [Yes](https://codeforces.com/contest/1208/submission/104036162) |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | [Yes](https://codeforces.com/contest/1099/submission/104338160) |
 | 48 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
-| 49 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
+| 49 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | [Yes](https://codeforces.com/contest/776/submission/105173449) |
 | 50 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
 | 51 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
 | 52 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
