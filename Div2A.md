@@ -41,16 +41,16 @@
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 800 | [Yes](https://codeforces.com/contest/950/submission/102409962) |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 800 | [Yes](https://codeforces.com/contest/1130/submission/103452502) |
 | 41 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 800 | [Yes](https://codeforces.com/contest/1185/submission/103904909) |
-| 42 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [Yes](https://codeforces.com/contest/1113/submission/102544401) |
-| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | [Yes](https://codeforces.com/contest/1004/submission/103382636) |
-| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | [Yes](https://codeforces.com/contest/1138/submission/103984414) |
-| 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | [Yes](https://codeforces.com/contest/1209/submission/104055377) |
-| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | [Yes](https://codeforces.com/contest/1208/submission/104036162) |
-| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | [Yes](https://codeforces.com/contest/1099/submission/104338160) |
-| 48 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
-| 49 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | [Yes](https://codeforces.com/contest/776/submission/105173449) |
-| 50 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
-| 51 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
+| 42 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 800 | [Yes](https://codeforces.com/contest/1075/submission/105244331) |
+| 43 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | [Yes](https://codeforces.com/contest/1113/submission/102544401) |
+| 44 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | [Yes](https://codeforces.com/contest/1004/submission/103382636) |
+| 45 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | [Yes](https://codeforces.com/contest/1138/submission/103984414) |
+| 46 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | [Yes](https://codeforces.com/contest/1209/submission/104055377) |
+| 47 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | [Yes](https://codeforces.com/contest/1208/submission/104036162) |
+| 48 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | [Yes](https://codeforces.com/contest/1099/submission/104338160) |
+| 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
+| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | [Yes](https://codeforces.com/contest/776/submission/105173449) |
+| 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
 | 52 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
 | 53 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
 | 54 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
