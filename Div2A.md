@@ -51,7 +51,7 @@
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | [Yes](https://codeforces.com/contest/765/submission/104357132) |
 | 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | [Yes](https://codeforces.com/contest/776/submission/105173449) |
 | 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 | [Yes](https://codeforces.com/contest/1201/submission/104583627) |
-| 52 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
+| 52 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 | [Yes](https://codeforces.com/contest/892/submission/106672309) |
 | 53 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
 | 54 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
