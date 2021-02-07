@@ -56,7 +56,7 @@
 | 54 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 900 | [Yes](https://codeforces.com/contest/768/submission/106693506) |
 | 55 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 900 | [Yes](https://codeforces.com/contest/989/submission/106842537) |
 | 56 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
-| 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |
+| 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
 | 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
 | 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |  |
