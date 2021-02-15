@@ -58,7 +58,7 @@
 | 56 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
-| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
+| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
 | 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
