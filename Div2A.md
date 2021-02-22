@@ -55,9 +55,9 @@
 | 53 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 | [Yes](https://codeforces.com/contest/796/submission/106688967) |
 | 54 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 900 | [Yes](https://codeforces.com/contest/768/submission/106693506) |
 | 55 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 900 | [Yes](https://codeforces.com/contest/989/submission/106842537) |
-| 56 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
-| 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
-| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
+| 56 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 900 | [Yes](https://codeforces.com/contest/948/submission/108205353) |
+| 57 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
+| 58 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
 | 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
 | 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
