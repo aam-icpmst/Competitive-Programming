@@ -58,11 +58,11 @@
 | 56 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 900 | [Yes](https://codeforces.com/contest/948/submission/108205353) |
 | 57 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 900 | [Yes](https://codeforces.com/contest/1011/submission/109770383) |
 | 58 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 900 | [Yes](https://codeforces.com/contest/1169/submission/109804919) |
-| 59 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
-| 60 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
-| 61 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
-| 62 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
-| 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
+| 59 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 900 | [Yes](https://codeforces.com/contest/1163/submission/109861812) |
+| 60 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
+| 61 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
+| 62 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
+| 63 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
