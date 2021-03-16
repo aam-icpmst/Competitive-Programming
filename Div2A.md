@@ -63,7 +63,7 @@
 | 61 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
 | 62 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
 | 63 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
-| 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
+| 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | [Yes](https://codeforces.com/contest/1040/submission/110124017) |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
