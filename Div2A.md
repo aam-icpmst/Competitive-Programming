@@ -60,12 +60,12 @@
 | 58 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 900 | [Yes](https://codeforces.com/contest/1169/submission/109804919) |
 | 59 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 900 | [Yes](https://codeforces.com/contest/1163/submission/109861812) |
 | 60 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 900 | [Yes](https://codeforces.com/contest/876/submission/110462358) |
-| 61 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
-| 62 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
-| 63 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
-| 64 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
-| 65 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | [Yes](https://codeforces.com/contest/1040/submission/110124017) |
-| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
+| 61 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 900 | [Yes](https://codeforces.com/contest/834/submission/110741262) |
+| 62 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 1000 | [Yes](https://codeforces.com/contest/1248/submission/105156546) |
+| 63 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | [Yes](https://codeforces.com/contest/1100/submission/106852209) |
+| 64 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
+| 65 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
+| 66 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | [Yes](https://codeforces.com/contest/1040/submission/110124017) |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 |  |
