@@ -67,7 +67,7 @@
 | 65 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | [Yes](https://codeforces.com/contest/1174/submission/107476590) |
 | 66 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | [Yes](https://codeforces.com/contest/805/submission/107461990) |
 | 67 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | [Yes](https://codeforces.com/contest/1040/submission/110124017) |
-| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
+| 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | [Yes](https://codeforces.com/contest/844/submission/111376924) |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 |  |
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 |  |
 | 71 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
