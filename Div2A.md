@@ -70,9 +70,9 @@
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 | [Yes](https://codeforces.com/contest/844/submission/111376924) |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 | [Yes](https://codeforces.com/contest/1265/submission/111726412) |
 | 70 | [Single Push](https://codeforces.com/problemset/problem/1253/A) | 1000 | [Yes](https://codeforces.com/contest/1253/submission/111817069) |
-| 71 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
-| 72 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1100 |  |
-| 73 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1100 |  |
+| 71 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1000 | [Yes](https://codeforces.com/contest/887/submission/112070584) |
+| 72 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
+| 73 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1100 |  |
 | 74 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 |  |
 | 75 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 |  |
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |  |
