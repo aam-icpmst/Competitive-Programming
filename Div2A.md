@@ -73,7 +73,7 @@
 | 71 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1000 | [Yes](https://codeforces.com/contest/887/submission/112070584) |
 | 72 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1000 | [Yes](https://codeforces.com/contest/1195/submission/112175962) |
 | 73 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 |  |
-| 74 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 |  |
+| 74 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 | [Yes](https://codeforces.com/contest/1105/submission/113036053) |
 | 75 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 |  |
 | 76 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1100 |  |
 | 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 |  |
