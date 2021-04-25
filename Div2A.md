@@ -73,10 +73,10 @@
 | 71 | [Div. 64](https://codeforces.com/problemset/problem/887/A) | 1000 | [Yes](https://codeforces.com/contest/887/submission/112070584) |
 | 72 | [Drinks Choosing](https://codeforces.com/problemset/problem/1195/A) | 1000 | [Yes](https://codeforces.com/contest/1195/submission/112175962) |
 | 73 | [Unimodal Array](https://codeforces.com/problemset/problem/831/A) | 1000 | [Yes](https://codeforces.com/contest/831/submission/113637219) |
-| 74 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 | [Yes](https://codeforces.com/contest/789/submission/113359827) |
-| 75 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 | [Yes](https://codeforces.com/contest/1105/submission/113036053) |
-| 76 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 |  |
-| 77 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1100 |  |
+| 74 | [Odds and Ends](https://codeforces.com/problemset/problem/849/A) | 1000 | [Yes](https://codeforces.com/contest/849/submission/114209360) |
+| 75 | [Anastasia and pebbles](https://codeforces.com/problemset/problem/789/A) | 1100 | [Yes](https://codeforces.com/contest/789/submission/113359827) |
+| 76 | [Salem and Sticks ](https://codeforces.com/problemset/problem/1105/A) | 1100 | [Yes](https://codeforces.com/contest/1105/submission/113036053) |
+| 77 | [Karen and Morning](https://codeforces.com/problemset/problem/816/A) | 1100 |  |
 | 78 | [New Building for SIS](https://codeforces.com/problemset/problem/1020/A) | 1100 |  |
 | 79 | [Technogoblet of Fire](https://codeforces.com/problemset/problem/1121/A) | 1100 |  |
 | 80 | [Gotta Catch Em' All!](https://codeforces.com/problemset/problem/757/A) | 1100 |  |
